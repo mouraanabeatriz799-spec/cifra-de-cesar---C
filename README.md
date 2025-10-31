@@ -1,5 +1,5 @@
-# cifra de cesar | C
-meu primeiro repositorio 
+# cifra de cesar | C | prof rodrigo e assis 
+meu primeiro repositorio
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
