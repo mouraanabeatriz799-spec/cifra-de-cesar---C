@@ -1,4 +1,4 @@
-# cifra de cesar | C | prof rodrigo e assis 
+# cifra de cesar  
 meu primeiro repositorio
 #include <stdio.h>
 #include <string.h>
